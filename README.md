@@ -25,6 +25,11 @@ https://github.com/liamengland1/miscfilters/raw/master/antipaywall.txt
         
 ```
 https://github.com/kowith337/PersonalFilterListCollection/raw/master/filterlist/specific/AntiAPKMirrorCountdown.txt
+```
+
+----
+
+```
 https://cdn.statically.io/gh/bogachenko/fuckfuckadblock/master/fuckfuckadblock.txt
 https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-paywall-filter.txt
 https://github.com/liamengland1/miscfilters/raw/master/antipaywall.txt
