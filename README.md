@@ -13,6 +13,11 @@ One Tab / https://addons.mozilla.org/en-US/firefox/addon/onetab/
 
 Session Manager - https://tab-session-manager.sienori.com/
 
+Link Gopher - https://chrome.google.com/webstore/detail/link-gopher/bpjdkodgnbfalgghnbeggfbfjpcfamkf
+
+Link Gopher - https://addons.mozilla.org/en-US/firefox/addon/link-gopher/
+
+
 ## uBlock Origin Filterlists
 
         
