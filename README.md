@@ -8,8 +8,10 @@ minimizing the annoying task of firing up the fox... or chrome... browser...
 [uBlock origin](https://github.com/gorhill/uBlock)
 
 One Tab - https://chrome.google.com/webstore/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall
+
 One Tab / https://addons.mozilla.org/en-US/firefox/addon/onetab/
 
+Session Manager - https://tab-session-manager.sienori.com/
 
 ## uBlock Origin Filterlists
 
