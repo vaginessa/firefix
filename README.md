@@ -66,8 +66,12 @@ x-hagezi-pro.freedns.controld.com
 ```
 
 IPv4
+```
 76.76.2.41
+```
+```
 76.76.10.41
+```
 
 IPv6
 ```
@@ -76,6 +80,8 @@ IPv6
 ```
 2606:1a40:1::41
 ```
+
+### 03-2024
 ```
 https://sky.rethinkdns.com/1:AAoACBAA
 ```
