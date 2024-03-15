@@ -76,11 +76,6 @@ https://sky.rethinkdns.com/1:AAoACBAA
 https://dns.dnswarden.com/00000000000000000000018
 00000000000000000000018.dns.dnswarden.com
 
------  
-
-https://sky.rethinkdns.com/1:AAkACAgA
-1-aaeqacaiaa.max.rethinkdns.com
-
 https://dns.dnswarden.com/00000000000000000000028
 00000000000000000000028.dns.dnswarden.com
 
