@@ -48,7 +48,41 @@ https://github.com/kowith337/PersonalFilterListCollection/raw/master/filterlist/
 
 
 
-| ## [Quad9 DNS](https://www.quad9.net/)  **IPv4** ```9.9.9.9```  \| ```149.112.112.112```  **IPv6** ```2620:fe::fe```  \| ```2620:fe::9```  **DoH** ```https://dns.quad9.net/dns-query```  **DoT** ```dns.quad9.net```                 	| ## [AdGuard DNS](https://adguard-dns.io/) **IPv4** ```76.76.19.19``` \| ```76.223.122.150```  **IPv6** ```2602:fcbc::ad``` \| ```2602:fcbc:2::ad``` 	|
+| ##                  	| ## [AdGuard DNS](https://adguard-dns.io/) **IPv4** ```76.76.19.19``` \| ```76.223.122.150```  **IPv6** ```2602:fcbc::ad``` \| ```2602:fcbc:2::ad``` 	|
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------	|
 | ## [DeCloudUs DNS](https://decloudus.com/)                                                                                                                                                                                            	| ## [Rethink DNS](https://rethinkdns.com/)                                                                                                           	|
 | ```dot.sb``` \| **DoT** \|  [DNS.SB](https://dns.sb/) ```https://dns.nextdns.io/b2b66e/devicename``` \| **DoH** ```devicename-b2b66e.dns.nextdns.io``` \|  ! **DoT** ```2a07:a8c0::b2:b66e``` \| ```2a07:a8c1::b2:b66e``` \| **IPv6** 	| ```8.8.8.8``` \| ```8.4.4.8```  ```1.1.1.1``` \| ```1.0.0.1```  ```9.9.9.9``` \| **IPv4**                                                           	|
+
+-----  
+
+https://github.com/hagezi/dns-blocklists
+
+Hagezi Pro
+
+https://freedns.controld.com/x-hagezi-pro
+x-hagezi-pro.freedns.controld.com
+
+IPv4
+76.76.2.41
+76.76.10.41
+
+IPv6
+2606:1a40::41
+2606:1a40:1::41
+
+https://sky.rethinkdns.com/1:AAoACBAA
+1-aafaacaqaa.max.rethinkdns.com
+
+https://dns.dnswarden.com/00000000000000000000018
+00000000000000000000018.dns.dnswarden.com
+
+-----  
+
+https://sky.rethinkdns.com/1:AAkACAgA
+1-aaeqacaiaa.max.rethinkdns.com
+
+https://dns.dnswarden.com/00000000000000000000028
+00000000000000000000028.dns.dnswarden.com
+
+https://freedns.controld.com/x-hagezi-normal
+x-hagezi-normal.freedns.controld.com
