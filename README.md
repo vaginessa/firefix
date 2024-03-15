@@ -58,31 +58,46 @@ https://github.com/kowith337/PersonalFilterListCollection/raw/master/filterlist/
 https://github.com/hagezi/dns-blocklists
 
 Hagezi Pro
-
+```
 https://freedns.controld.com/x-hagezi-pro
+```
+```
 x-hagezi-pro.freedns.controld.com
+```
 
 IPv4
 76.76.2.41
 76.76.10.41
 
 IPv6
+```
 2606:1a40::41
+```
+```
 2606:1a40:1::41
 ```
+```
 https://sky.rethinkdns.com/1:AAoACBAA
+```
+```
 1-aafaacaqaa.max.rethinkdns.com
 ```
 ```
 https://dns.dnswarden.com/00000000000000000000018
+```
+```
 00000000000000000000018.dns.dnswarden.com
 ```
 
 ```
 https://dns.dnswarden.com/00000000000000000000028
+```
+```
 00000000000000000000028.dns.dnswarden.com
 ```
 ```
 https://freedns.controld.com/x-hagezi-normal
+```
+```
 x-hagezi-normal.freedns.controld.com
 ```
