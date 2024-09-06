@@ -3,7 +3,7 @@ a little copy&paste data helping firing up the fox... or chrome...
 
 ## Browser Addons
 
-[www.FastForward.team](https://github.com/FastForwardTeam/FastForward)
+[www.FastForward.team](https://github.com/FastForwardTeam/FastForward) ⚠️not longer developed⚠️
 
 [uBlock origin](https://github.com/gorhill/uBlock)
 
@@ -126,16 +126,19 @@ x-hagezi-normal.freedns.controld.com
 ```
 
 
-### Fox ⚠️
+### Fox ℹ️
 ```
 about:about
 ```
 
-### Chrome ⚠️
+### Chrome ℹ️
 ```
 chrome://about/
 ```
 equals
 ```
 chrome://internal-urls
+```
+```
+chrome://flags/
 ```
