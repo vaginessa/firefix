@@ -1,5 +1,5 @@
-# firefix
-minimizing the annoying task of firing up the fox... or chrome... browser...
+# *firefix*
+a little copy&paste data helping firing up the fox... or chrome...
 
 ## Browser Addons
 
@@ -45,13 +45,30 @@ https://gitlab.com/magnolia1234/bypass-paywalls-clean-filters/-/raw/main/bpc-pay
 https://github.com/liamengland1/miscfilters/raw/master/antipaywall.txt
 https://github.com/kowith337/PersonalFilterListCollection/raw/master/filterlist/specific/AntiAPKMirrorCountdown.txt
 ```
+## additional Lists fron *DivestOS*
+
+```
+https://divested.dev/hosts-domains-wildcards
+```
+```
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
+```
+```
+https://divested.dev/blocklists/Fingerprinting.ubl
+```
+
+```
+https://divested.dev/hosts-domains-wildcards
+https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt
+https://divested.dev/blocklists/Fingerprinting.ubl
+```
 
 
 
 | ##                  	| ## [AdGuard DNS](https://adguard-dns.io/) **IPv4** ```76.76.19.19``` \| ```76.223.122.150```  **IPv6** ```2602:fcbc::ad``` \| ```2602:fcbc:2::ad``` 	|
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|-----------------------------------------------------------------------------------------------------------------------------------------------------	|
 | ## [DeCloudUs DNS](https://decloudus.com/)                                                                                                                                                                                            	| ## [Rethink DNS](https://rethinkdns.com/)                                                                                                           	|
-| ```dot.sb``` \| **DoT** \|  [DNS.SB](https://dns.sb/) ```https://dns.nextdns.io/b2b66e/devicename``` \| **DoH** ```devicename-b2b66e.dns.nextdns.io``` \|  ! **DoT** ```2a07:a8c0::b2:b66e``` \| ```2a07:a8c1::b2:b66e``` \| **IPv6** 	| ```8.8.8.8``` \| ```8.4.4.8```  ```1.1.1.1``` \| ```1.0.0.1```  ```9.9.9.9``` \| **IPv4**                                                           	|
+| ```dot.sb``` \| **DoT** \|  [DNS.SB](https://dns.sb/) ```https://dns.nextdns.io/xxxxxx/devicename``` \| **DoH** ```devicename-xxxxxx.dns.nextdns.io``` \|  ! **DoT** ```2a07:a8c0::b2:xxxx``` \| ```2a07:a8c1::b2:xxxx``` \| **IPv6** 	| ```8.8.8.8``` \| ```8.4.4.8```  ```1.1.1.1``` \| ```1.0.0.1```  ```9.9.9.9``` \| **IPv4**                                                           	|
 
 -----  
 
@@ -107,3 +124,16 @@ https://freedns.controld.com/x-hagezi-normal
 ```
 x-hagezi-normal.freedns.controld.com
 ```
+
+
+### Fox ⚠️
+
+about:about
+
+
+### Chrome ⚠️
+
+chrome://flags
+
+
+chrome://internal-urls
